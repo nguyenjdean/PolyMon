@@ -1,0 +1,54 @@
+name: Generate Daily Puzzle
+
+on:
+  schedule:
+    # Runs at 07:00 UTC every day (3:00 AM EDT / 2:00 AM EST)
+    - cron: '0 7 * * *'
+  workflow_dispatch: # Allows you to run this workflow manually from the Actions tab
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Needed to push to the repository
+
+    steps:
+      - name: Checkout main branch
+        uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          
+      - name: Install dependencies
+        run: npm ci
+        
+      - name: Generate Puzzle Data
+        run: npx tsx scripts/generateDaily.ts
+        
+      - name: Publish to daily-data branch
+        run: |
+          # Set up git user
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          
+          # We only want to push the `data` folder to avoid bloating the main repository history.
+          # To do this, we move data to a temp folder, switch to an orphan branch, and commit ONLY data.
+          mkdir temp_data
+          mv data temp_data/
+          
+          git checkout --orphan daily-data
+          # Remove all tracked files from index
+          git rm -rf .
+          
+          # Move data back
+          mv temp_data/data .
+          
+          # Add and commit
+          git add data/
+          git commit -m "Daily puzzle data for $(date +'%Y-%m-%d')"
+          
+          # Force push completely overwrites the branch, ensuring it stays small
+          git push -f origin daily-data

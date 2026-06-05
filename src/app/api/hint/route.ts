@@ -16,7 +16,7 @@ export async function GET(request: NextRequest) {
     }
 
     const dateStr = date || getDailyDateString();
-    const meta = getDailyMeta(dateStr);
+    const meta = await getDailyMeta(dateStr);
 
     if (!meta) {
         return NextResponse.json({ error: 'Daily puzzle not generated yet.' }, { status: 404 });

@@ -12,7 +12,7 @@ export async function GET(request: NextRequest) {
 
     const dateParam = searchParams.get('date');
     const dateStr = dateParam || getDailyDateString();
-    const svgData = getDailySvg(mode, guesses, dateStr);
+    const svgData = await getDailySvg(mode, guesses, dateStr);
 
     if (!svgData) {
         return new NextResponse('Daily puzzle mode not found.', { status: 404 });
