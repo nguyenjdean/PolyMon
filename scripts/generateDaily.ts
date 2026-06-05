@@ -2,6 +2,7 @@ import { ImageRunner, Bitmap, ShapeTypes, SvgExporter } from 'geometrizejs';
 import sharp from 'sharp';
 import fs from 'fs';
 import path from 'path';
+import { getDailyDateString } from '../src/lib/daily';
 
 function sfc32(a: number, b: number, c: number, d: number) {
     return function() {
@@ -85,7 +86,7 @@ const MODES = {
 
 async function main() {
     // Optionally accept date string from command line args
-    const dateStr = process.argv[2] || new Date().toISOString().split('T')[0];
+    const dateStr = process.argv[2] || getDailyDateString();
     console.log(`Generating daily puzzle for ${dateStr}...`);
 
     const seeds = stringToSeed(dateStr + "_v3");
