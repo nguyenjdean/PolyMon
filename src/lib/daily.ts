@@ -67,7 +67,7 @@ export async function getDailyMeta(dateStr: string = getDailyDateString()): Prom
     // 2. Fetch from GitHub raw content
     const url = `https://raw.githubusercontent.com/nguyenjdean/PolyMon/daily-data/data/${dateStr}/meta.json`;
     try {
-        const res = await fetch(url, { next: { revalidate: 3600 } });
+        const res = await fetch(url, { next: { revalidate: 60 } });
         if (!res.ok) return null;
         return await res.json();
     } catch (e) {
@@ -98,7 +98,7 @@ export async function getDailySvg(mode: string, guessCount: number, dateStr: str
     // 2. Fetch from GitHub raw content
     const url = `https://raw.githubusercontent.com/nguyenjdean/PolyMon/daily-data/data/${dateStr}/${mode}_${targetShapes}.svg`;
     try {
-        const res = await fetch(url, { next: { revalidate: 3600 } });
+        const res = await fetch(url, { next: { revalidate: 60 } });
         if (!res.ok) return null;
         return await res.text();
     } catch (e) {
