@@ -2,8 +2,9 @@ name: Generate Daily Puzzle
 
 on:
   schedule:
-    # Runs at 07:00 UTC every day (3:00 AM EDT / 2:00 AM EST)
-    - cron: '0 7 * * *'
+    # Runs at 06:45 UTC every day (2:45 AM EDT / 1:45 AM EST)
+    # Running 15 minutes before 3:00 AM ensures the data is ready when the website rolls over.
+    - cron: '45 6 * * *'
   workflow_dispatch: # Allows you to run this workflow manually from the Actions tab
 
 jobs:
@@ -26,7 +27,16 @@ jobs:
         run: npm ci
         
       - name: Generate Puzzle Data
-        run: npx tsx scripts/generateDaily.ts
+        run: |
+          export TZ="America/New_York"
+          YESTERDAY=$(date -d "yesterday" +%Y-%m-%d)
+          TODAY=$(date +%Y-%m-%d)
+          
+          echo "Generating puzzle for yesterday ($YESTERDAY)"
+          npx tsx scripts/generateDaily.ts $YESTERDAY
+          
+          echo "Generating puzzle for today ($TODAY)"
+          npx tsx scripts/generateDaily.ts $TODAY
         
       - name: Publish to daily-data branch
         run: |
@@ -35,7 +45,6 @@ jobs:
           git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
           
           # We only want to push the `data` folder to avoid bloating the main repository history.
-          # To do this, we move data to a temp folder, switch to an orphan branch, and commit ONLY data.
           mkdir temp_data
           mv data temp_data/
           
@@ -46,7 +55,7 @@ jobs:
           # Move data back
           mv temp_data/data .
           
-          # Add and commit
+          # Add and commit BOTH days (keeps history size fixed)
           git add data/
           git commit -m "Daily puzzle data for $(date +'%Y-%m-%d')"
           
