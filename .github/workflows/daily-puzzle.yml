@@ -26,17 +26,37 @@ jobs:
       - name: Install dependencies
         run: npm ci
         
+      - name: Checkout old data
+        uses: actions/checkout@v4
+        with:
+          ref: daily-data
+          path: old_data
+        continue-on-error: true
+        
       - name: Generate Puzzle Data
         run: |
           export TZ="America/New_York"
-          YESTERDAY=$(date -d "yesterday" +%Y-%m-%d)
           TODAY=$(date +%Y-%m-%d)
+          YESTERDAY=$(date -d "yesterday" +%Y-%m-%d)
           
-          echo "Generating puzzle for yesterday ($YESTERDAY)"
-          npx tsx scripts/generateDaily.ts $YESTERDAY
+          # Restore previous days' data so we don't have to regenerate them
+          mkdir -p data
+          if [ -d "old_data/data" ]; then
+            cp -r old_data/data/* data/ || true
+          fi
           
           echo "Generating puzzle for today ($TODAY)"
           npx tsx scripts/generateDaily.ts $TODAY
+          
+          # Clean up old data to prevent the branch from growing infinitely
+          for d in data/*/; do
+            folder=$(basename "$d")
+            # Keep ONLY today and yesterday
+            if [ "$folder" != "$TODAY" ] && [ "$folder" != "$YESTERDAY" ]; then
+              echo "Removing old puzzle data: $folder"
+              rm -rf "$d"
+            fi
+          done
         
       - name: Publish to daily-data branch
         run: |
