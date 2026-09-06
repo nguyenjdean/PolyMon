@@ -1,0 +1,42 @@
+{
+  "circles": {
+    "id": 961,
+    "name": "wugtrio",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/961.png",
+    "hints": [
+      "This Pokemon is a Monotype.",
+      "The primary type is Water.",
+      "It was introduced in GENERATION IX."
+    ]
+  },
+  "rectangles": {
+    "id": 259,
+    "name": "marshtomp",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/259.png",
+    "hints": [
+      "This Pokemon is a Dual-type.",
+      "The primary type is Water.",
+      "It was introduced in GENERATION III."
+    ]
+  },
+  "triangles": {
+    "id": 263,
+    "name": "zigzagoon",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/263.png",
+    "hints": [
+      "This Pokemon is a Monotype.",
+      "The primary type is Normal.",
+      "It was introduced in GENERATION III."
+    ]
+  },
+  "lines": {
+    "id": 679,
+    "name": "honedge",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/679.png",
+    "hints": [
+      "This Pokemon is a Dual-type.",
+      "The primary type is Steel.",
+      "It was introduced in GENERATION VI."
+    ]
+  }
+}

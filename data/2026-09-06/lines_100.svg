@@ -1,0 +1,102 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny" width="256" height="256">
+<path d="M145 140 Q 93 248 222 168" stroke="rgb(143,196,218)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M153 112 Q 193 255 122 201" stroke="rgb(116,163,190)" stroke-width="1" fill="none" stroke-opacity="1" />
+<line x1="56" y1="215" x2="109" y2="175" stroke="rgb(161,144,124)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M63 96 Q 206 170 82 48" stroke="rgb(143,136,121)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M118 59 Q 61 95 118 255" stroke="rgb(144,131,116)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M132 163 Q 164 255 174 93" stroke="rgb(117,164,194)" stroke-width="1" fill="none" stroke-opacity="1" />
+<line x1="128" y1="179" x2="201" y2="181" stroke="rgb(158,199,214)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M100 228 Q 22 57 203 144" stroke="rgb(128,123,114)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M162 87 Q 100 255 177 188" stroke="rgb(109,162,193)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M115 104 Q 0 255 239 168" stroke="rgb(135,141,137)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M198 185 Q 9 247 161 62" stroke="rgb(130,138,137)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M63 220 Q 119 46 149 127" stroke="rgb(148,134,116)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M106 184 Q 13 229 238 172" stroke="rgb(134,146,146)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M83 240 Q 242 21 111 249" stroke="rgb(97,131,149)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M91 235 Q 87 136 88 73" stroke="rgb(133,123,113)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M148 228 Q 198 78 159 254" stroke="rgb(157,197,213)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M198 193 Q 73 0 84 157" stroke="rgb(122,144,151)" stroke-width="1" fill="none" stroke-opacity="1" />
+<line x1="157" y1="91" x2="187" y2="210" stroke="rgb(103,148,179)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M80 96 Q 161 225 57 61" stroke="rgb(165,158,150)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M79 88 Q 232 153 115 147" stroke="rgb(105,127,134)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M45 151 Q 254 153 99 209" stroke="rgb(81,99,107)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M148 231 Q 220 101 68 112" stroke="rgb(117,143,158)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M144 23 Q 201 255 142 1" stroke="rgb(53,102,149)" stroke-width="1" fill="none" stroke-opacity="1" />
+<line x1="149" y1="28" x2="172" y2="126" stroke="rgb(53,103,150)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M71 149 Q 228 47 122 255" stroke="rgb(120,147,161)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M111 40 Q 125 249 39 198" stroke="rgb(137,129,115)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M170 221 Q 126 21 60 114" stroke="rgb(117,144,151)" stroke-width="1" fill="none" stroke-opacity="1" />
+<line x1="150" y1="27" x2="174" y2="127" stroke="rgb(51,97,141)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M177 218 Q 0 148 94 255" stroke="rgb(125,128,123)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M179 45 Q 130 9 190 255" stroke="rgb(79,120,155)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M195 224 Q 245 252 1 54" stroke="rgb(104,119,120)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M192 204 Q 142 160 62 122" stroke="rgb(117,138,147)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M183 169 Q 69 237 53 203" stroke="rgb(124,137,138)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M127 109 Q 35 182 134 42" stroke="rgb(157,156,151)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M155 34 Q 165 213 142 236" stroke="rgb(87,136,172)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M59 208 Q 61 255 232 172" stroke="rgb(111,121,121)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M59 215 Q 142 10 93 49" stroke="rgb(137,130,116)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M80 86 Q 63 141 230 190" stroke="rgb(127,146,154)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M194 203 Q 30 58 198 174" stroke="rgb(98,129,146)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M139 216 Q 200 35 133 21" stroke="rgb(86,136,175)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M186 214 Q 50 0 176 241" stroke="rgb(119,150,165)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M174 99 Q 13 103 172 116" stroke="rgb(94,94,90)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M191 197 Q 110 253 156 101" stroke="rgb(121,167,190)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M107 149 Q 63 31 91 199" stroke="rgb(148,138,127)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M78 192 Q 252 102 111 2" stroke="rgb(68,105,135)" stroke-width="1" fill="none" stroke-opacity="1" />
+<line x1="120" y1="11" x2="90" y2="234" stroke="rgb(118,118,111)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M139 107 Q 160 121 78 131" stroke="rgb(140,133,121)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M115 69 Q 63 76 173 241" stroke="rgb(107,112,108)" stroke-width="1" fill="none" stroke-opacity="1" />
+<line x1="54" y1="217" x2="106" y2="196" stroke="rgb(141,127,112)" stroke-width="1" fill="none" stroke-opacity="1" />
+<line x1="135" y1="101" x2="188" y2="216" stroke="rgb(116,155,171)" stroke-width="1" fill="none" stroke-opacity="1" />
+<line x1="137" y1="211" x2="198" y2="186" stroke="rgb(152,190,205)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M169 49 Q 37 189 85 255" stroke="rgb(104,99,92)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M51 217 Q 226 195 145 6" stroke="rgb(80,111,135)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M77 165 Q 129 0 111 145" stroke="rgb(130,124,114)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M189 183 Q 140 186 157 93" stroke="rgb(93,144,178)" stroke-width="1" fill="none" stroke-opacity="1" />
+<line x1="127" y1="179" x2="197" y2="187" stroke="rgb(157,198,214)" stroke-width="1" fill="none" stroke-opacity="1" />
+<line x1="155" y1="88" x2="186" y2="211" stroke="rgb(97,140,171)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M98 167 Q 6 3 241 227" stroke="rgb(119,126,125)" stroke-width="1" fill="none" stroke-opacity="1" />
+<line x1="166" y1="53" x2="144" y2="228" stroke="rgb(91,139,174)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M203 181 Q 38 165 136 1" stroke="rgb(108,122,125)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M187 238 Q 75 44 225 228" stroke="rgb(112,156,179)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M103 70 Q 239 190 26 234" stroke="rgb(99,115,119)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M154 224 Q 193 60 52 157" stroke="rgb(129,155,168)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M76 239 Q 123 245 85 81" stroke="rgb(147,132,116)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M163 223 Q 164 201 171 31" stroke="rgb(95,137,171)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M201 190 Q 109 250 87 40" stroke="rgb(114,123,123)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M159 116 Q 15 110 214 244" stroke="rgb(122,133,135)" stroke-width="1" fill="none" stroke-opacity="1" />
+<line x1="79" y1="244" x2="127" y2="92" stroke="rgb(133,122,108)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M132 190 Q 145 254 153 82" stroke="rgb(108,157,187)" stroke-width="1" fill="none" stroke-opacity="1" />
+<line x1="112" y1="40" x2="106" y2="230" stroke="rgb(131,124,111)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M64 105 Q 203 89 168 118" stroke="rgb(87,92,90)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M165 187 Q 115 131 48 92" stroke="rgb(112,124,127)" stroke-width="1" fill="none" stroke-opacity="1" />
+<line x1="57" y1="215" x2="107" y2="184" stroke="rgb(159,143,123)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M146 186 Q 195 208 46 96" stroke="rgb(122,140,145)" stroke-width="1" fill="none" stroke-opacity="1" />
+<line x1="129" y1="184" x2="190" y2="205" stroke="rgb(159,200,215)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M107 182 Q 57 41 84 148" stroke="rgb(133,120,108)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M201 182 Q 100 156 98 58" stroke="rgb(108,132,143)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M192 105 Q 21 78 55 146" stroke="rgb(63,66,65)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M105 219 Q 7 250 167 76" stroke="rgb(118,105,92)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M192 181 Q 57 223 117 54" stroke="rgb(123,137,139)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M104 178 Q 103 33 148 175" stroke="rgb(108,100,91)" stroke-width="1" fill="none" stroke-opacity="1" />
+<line x1="173" y1="117" x2="154" y2="30" stroke="rgb(55,102,148)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M91 179 Q 87 101 129 79" stroke="rgb(115,109,103)" stroke-width="1" fill="none" stroke-opacity="1" />
+<line x1="161" y1="36" x2="146" y2="226" stroke="rgb(86,134,168)" stroke-width="1" fill="none" stroke-opacity="1" />
+<line x1="109" y1="50" x2="103" y2="223" stroke="rgb(136,128,114)" stroke-width="1" fill="none" stroke-opacity="1" />
+<line x1="118" y1="46" x2="91" y2="233" stroke="rgb(134,127,113)" stroke-width="1" fill="none" stroke-opacity="1" />
+<line x1="134" y1="148" x2="153" y2="227" stroke="rgb(142,194,215)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M72 151 Q 132 153 180 38" stroke="rgb(88,89,90)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M109 78 Q 23 103 204 116" stroke="rgb(102,99,91)" stroke-width="1" fill="none" stroke-opacity="1" />
+<line x1="120" y1="14" x2="166" y2="51" stroke="rgb(41,91,135)" stroke-width="1" fill="none" stroke-opacity="1" />
+<line x1="82" y1="90" x2="78" y2="243" stroke="rgb(132,119,106)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M60 98 Q 164 228 81 48" stroke="rgb(106,96,83)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M199 180 Q 87 117 176 190" stroke="rgb(100,148,178)" stroke-width="1" fill="none" stroke-opacity="1" />
+<line x1="61" y1="99" x2="141" y2="124" stroke="rgb(144,138,124)" stroke-width="1" fill="none" stroke-opacity="1" />
+<line x1="129" y1="180" x2="196" y2="199" stroke="rgb(157,197,213)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M83 94 Q 146 83 201 236" stroke="rgb(117,144,153)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M119 58 Q 109 0 123 173" stroke="rgb(134,127,110)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M98 195 Q 63 131 91 74" stroke="rgb(119,107,95)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M82 243 Q 67 101 186 169" stroke="rgb(94,96,96)" stroke-width="1" fill="none" stroke-opacity="1" />
+<path d="M113 155 Q 65 253 95 45" stroke="rgb(129,118,106)" stroke-width="1" fill="none" stroke-opacity="1" /></svg>
