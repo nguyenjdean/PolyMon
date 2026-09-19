@@ -1,0 +1,42 @@
+{
+  "circles": {
+    "id": 307,
+    "name": "meditite",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/307.png",
+    "hints": [
+      "This Pokemon is a Dual-type.",
+      "The primary type is Fighting.",
+      "It was introduced in GENERATION III."
+    ]
+  },
+  "rectangles": {
+    "id": 1019,
+    "name": "hydrapple",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1019.png",
+    "hints": [
+      "This Pokemon is a Dual-type.",
+      "The primary type is Grass.",
+      "It was introduced in GENERATION IX."
+    ]
+  },
+  "triangles": {
+    "id": 191,
+    "name": "sunkern",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/191.png",
+    "hints": [
+      "This Pokemon is a Monotype.",
+      "The primary type is Grass.",
+      "It was introduced in GENERATION II."
+    ]
+  },
+  "lines": {
+    "id": 640,
+    "name": "virizion",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/640.png",
+    "hints": [
+      "This Pokemon is a Dual-type.",
+      "The primary type is Grass.",
+      "It was introduced in GENERATION V."
+    ]
+  }
+}
