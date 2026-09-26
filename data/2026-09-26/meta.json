@@ -1,0 +1,42 @@
+{
+  "circles": {
+    "id": 426,
+    "name": "drifblim",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/426.png",
+    "hints": [
+      "This Pokemon is a Dual-type.",
+      "The primary type is Ghost.",
+      "It was introduced in GENERATION IV."
+    ]
+  },
+  "rectangles": {
+    "id": 906,
+    "name": "sprigatito",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/906.png",
+    "hints": [
+      "This Pokemon is a Monotype.",
+      "The primary type is Grass.",
+      "It was introduced in GENERATION IX."
+    ]
+  },
+  "triangles": {
+    "id": 853,
+    "name": "grapploct",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/853.png",
+    "hints": [
+      "This Pokemon is a Monotype.",
+      "The primary type is Fighting.",
+      "It was introduced in GENERATION VIII."
+    ]
+  },
+  "lines": {
+    "id": 736,
+    "name": "grubbin",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/736.png",
+    "hints": [
+      "This Pokemon is a Monotype.",
+      "The primary type is Bug.",
+      "It was introduced in GENERATION VII."
+    ]
+  }
+}

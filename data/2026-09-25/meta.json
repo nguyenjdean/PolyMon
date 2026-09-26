@@ -1,0 +1,42 @@
+{
+  "circles": {
+    "id": 887,
+    "name": "dragapult",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/887.png",
+    "hints": [
+      "This Pokemon is a Dual-type.",
+      "The primary type is Dragon.",
+      "It was introduced in GENERATION VIII."
+    ]
+  },
+  "rectangles": {
+    "id": 647,
+    "name": "keldeo-ordinary",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/647.png",
+    "hints": [
+      "This Pokemon is a Dual-type.",
+      "The primary type is Water.",
+      "It was introduced in GENERATION V."
+    ]
+  },
+  "triangles": {
+    "id": 580,
+    "name": "ducklett",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/580.png",
+    "hints": [
+      "This Pokemon is a Dual-type.",
+      "The primary type is Water.",
+      "It was introduced in GENERATION V."
+    ]
+  },
+  "lines": {
+    "id": 239,
+    "name": "elekid",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/239.png",
+    "hints": [
+      "This Pokemon is a Monotype.",
+      "The primary type is Electric.",
+      "It was introduced in GENERATION II."
+    ]
+  }
+}
