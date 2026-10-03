@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny" width="256" height="256">
+<rect x="60" y="32" width="134" height="183" fill="rgb(127,148,105)" fill-opacity="1" />
+<rect x="109" y="184" width="37" height="49" fill="rgb(162,179,142)" fill-opacity="1" />
+<polygon points="197 174 119 149 132 109 210 134" fill="rgb(180,197,158)" fill-opacity="1"/>
+<rect x="170" y="204" width="10" height="28" fill="rgb(191,208,168)" fill-opacity="1" />
+<rect x="60" y="156" width="40" height="59" fill="rgb(8,14,7)" fill-opacity="1" />
+<rect x="179" y="184" width="15" height="31" fill="rgb(21,23,19)" fill-opacity="1" />
+<rect x="99" y="32" width="44" height="20" fill="rgb(25,48,16)" fill-opacity="1" />
+<rect x="146" y="51" width="26" height="95" fill="rgb(192,207,167)" fill-opacity="1" />
+<rect x="44" y="95" width="44" height="38" fill="rgb(187,194,165)" fill-opacity="1" />
+<rect x="168" y="90" width="9" height="41" fill="rgb(206,226,182)" fill-opacity="1" />
+<rect x="76" y="53" width="57" height="19" fill="rgb(193,216,168)" fill-opacity="1" />
+<rect x="66" y="24" width="19" height="21" fill="rgb(122,169,78)" fill-opacity="1" />
+<rect x="171" y="208" width="10" height="17" fill="rgb(209,228,184)" fill-opacity="1" />
+<rect x="75" y="63" width="17" height="33" fill="rgb(183,197,158)" fill-opacity="1" />
+<polygon points="189 98 182 97 189 32 196 33" fill="rgb(10,18,7)" fill-opacity="1"/>
+<rect x="123" y="198" width="7" height="37" fill="rgb(18,19,15)" fill-opacity="1" />
+<polygon points="57 144 61 121 130 134 126 157" fill="rgb(196,207,171)" fill-opacity="1"/>
+<polygon points="184 21 186 30 151 39 149 30" fill="rgb(126,175,80)" fill-opacity="1"/>
+<polygon points="162 158 129 174 123 161 156 145" fill="rgb(67,97,58)" fill-opacity="1"/>
+<rect x="128" y="121" width="45" height="23" fill="rgb(209,229,185)" fill-opacity="1" /></svg>

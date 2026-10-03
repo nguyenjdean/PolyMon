@@ -1,0 +1,42 @@
+{
+  "circles": {
+    "id": 494,
+    "name": "victini",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/494.png",
+    "hints": [
+      "This Pokemon is a Dual-type.",
+      "The primary type is Psychic.",
+      "It was introduced in GENERATION V."
+    ]
+  },
+  "rectangles": {
+    "id": 233,
+    "name": "porygon2",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/233.png",
+    "hints": [
+      "This Pokemon is a Monotype.",
+      "The primary type is Normal.",
+      "It was introduced in GENERATION II."
+    ]
+  },
+  "triangles": {
+    "id": 210,
+    "name": "granbull",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/210.png",
+    "hints": [
+      "This Pokemon is a Monotype.",
+      "The primary type is Fairy.",
+      "It was introduced in GENERATION II."
+    ]
+  },
+  "lines": {
+    "id": 288,
+    "name": "vigoroth",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/288.png",
+    "hints": [
+      "This Pokemon is a Monotype.",
+      "The primary type is Normal.",
+      "It was introduced in GENERATION III."
+    ]
+  }
+}
