@@ -1,0 +1,42 @@
+{
+  "circles": {
+    "id": 509,
+    "name": "purrloin",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/509.png",
+    "hints": [
+      "This Pokemon is a Monotype.",
+      "The primary type is Dark.",
+      "It was introduced in GENERATION V."
+    ]
+  },
+  "rectangles": {
+    "id": 987,
+    "name": "flutter-mane",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/987.png",
+    "hints": [
+      "This Pokemon is a Dual-type.",
+      "The primary type is Ghost.",
+      "It was introduced in GENERATION IX."
+    ]
+  },
+  "triangles": {
+    "id": 656,
+    "name": "froakie",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/656.png",
+    "hints": [
+      "This Pokemon is a Monotype.",
+      "The primary type is Water.",
+      "It was introduced in GENERATION VI."
+    ]
+  },
+  "lines": {
+    "id": 897,
+    "name": "spectrier",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/897.png",
+    "hints": [
+      "This Pokemon is a Monotype.",
+      "The primary type is Ghost.",
+      "It was introduced in GENERATION VIII."
+    ]
+  }
+}
