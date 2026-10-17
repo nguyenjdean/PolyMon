@@ -1,0 +1,42 @@
+{
+  "circles": {
+    "id": 358,
+    "name": "chimecho",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/358.png",
+    "hints": [
+      "This Pokemon is a Monotype.",
+      "The primary type is Psychic.",
+      "It was introduced in GENERATION III."
+    ]
+  },
+  "rectangles": {
+    "id": 478,
+    "name": "froslass",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/478.png",
+    "hints": [
+      "This Pokemon is a Dual-type.",
+      "The primary type is Ice.",
+      "It was introduced in GENERATION IV."
+    ]
+  },
+  "triangles": {
+    "id": 847,
+    "name": "barraskewda",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/847.png",
+    "hints": [
+      "This Pokemon is a Monotype.",
+      "The primary type is Water.",
+      "It was introduced in GENERATION VIII."
+    ]
+  },
+  "lines": {
+    "id": 852,
+    "name": "clobbopus",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/852.png",
+    "hints": [
+      "This Pokemon is a Monotype.",
+      "The primary type is Fighting.",
+      "It was introduced in GENERATION VIII."
+    ]
+  }
+}

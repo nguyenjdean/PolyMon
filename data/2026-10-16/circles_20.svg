@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny" width="256" height="256">
+<circle cx="124" cy="148" r="73" fill="rgb(89,100,81)" fill-opacity="1" />
+<ellipse cx="176" cy="205" rx="21" ry="38" fill="rgb(119,136,116)" fill-opacity="1" />
+<circle cx="145" cy="62" r="24" fill="rgb(50,57,36)" fill-opacity="1" />
+<g transform="translate(131 175) rotate(319) scale(34 52)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(126,143,117)" fill-opacity="1" /></g>
+<circle cx="154" cy="31" r="13" fill="rgb(57,63,42)" fill-opacity="1" />
+<circle cx="108" cy="134" r="23" fill="rgb(138,134,118)" fill-opacity="1" />
+<ellipse cx="78" cy="148" rx="22" ry="22" fill="rgb(133,152,129)" fill-opacity="1" />
+<circle cx="120" cy="74" r="7" fill="rgb(62,72,45)" fill-opacity="1" />
+<ellipse cx="121" cy="218" rx="16" ry="20" fill="rgb(105,118,106)" fill-opacity="1" />
+<ellipse cx="114" cy="118" rx="5" ry="6" fill="rgb(236,221,219)" fill-opacity="1" />
+<circle cx="131" cy="204" r="19" fill="rgb(123,141,122)" fill-opacity="1" />
+<circle cx="124" cy="140" r="4" fill="rgb(221,219,215)" fill-opacity="1" />
+<g transform="translate(98 157) rotate(194) scale(3 43)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(86,100,78)" fill-opacity="1" /></g>
+<circle cx="227" cy="14" r="1" fill="rgb(0,0,0)" fill-opacity="1" />
+<circle cx="173" cy="133" r="22" fill="rgb(7,10,7)" fill-opacity="1" />
+<circle cx="142" cy="163" r="25" fill="rgb(132,151,122)" fill-opacity="1" />
+<g transform="translate(176 201) rotate(81) scale(12 37)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(127,146,124)" fill-opacity="1" /></g>
+<g transform="translate(159 174) rotate(117) scale(18 30)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(135,153,129)" fill-opacity="1" /></g>
+<g transform="translate(182 156) rotate(321) scale(9 18)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(1,1,1)" fill-opacity="1" /></g>
+<g transform="translate(98 93) rotate(129) scale(17 13)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(71,81,52)" fill-opacity="1" /></g></svg>

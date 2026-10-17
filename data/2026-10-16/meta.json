@@ -1,0 +1,42 @@
+{
+  "circles": {
+    "id": 610,
+    "name": "axew",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/610.png",
+    "hints": [
+      "This Pokemon is a Monotype.",
+      "The primary type is Dragon.",
+      "It was introduced in GENERATION V."
+    ]
+  },
+  "rectangles": {
+    "id": 81,
+    "name": "magnemite",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/81.png",
+    "hints": [
+      "This Pokemon is a Dual-type.",
+      "The primary type is Electric.",
+      "It was introduced in GENERATION I."
+    ]
+  },
+  "triangles": {
+    "id": 59,
+    "name": "arcanine",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png",
+    "hints": [
+      "This Pokemon is a Monotype.",
+      "The primary type is Fire.",
+      "It was introduced in GENERATION I."
+    ]
+  },
+  "lines": {
+    "id": 992,
+    "name": "iron-hands",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/992.png",
+    "hints": [
+      "This Pokemon is a Dual-type.",
+      "The primary type is Fighting.",
+      "It was introduced in GENERATION IX."
+    ]
+  }
+}
